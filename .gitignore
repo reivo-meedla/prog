@@ -1,1 +1,3 @@
 HTML
+__pycache__/
+*.pyc
